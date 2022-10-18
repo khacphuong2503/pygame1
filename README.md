@@ -1,4 +1,4 @@
 # Pygame
 Đồ án python
-Nguyễn Ngọc Thuỷ - MSSV: 19522326
+Sử dụng pygame để thêm các chức năng di chuyển lên xuống, thay đổi giao diện, hình ảnh.
 Nguyễn Khắc Phương - MSSV: 19522063
